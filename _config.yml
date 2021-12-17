@@ -1,5 +1,5 @@
-title: Your awesome title
-description: My awesome site
+title: Test jekyll
+description: Another Jekyll test
 permalink: /:slugified_categories/:title/
 
 date_format: "%b %-d, %Y"

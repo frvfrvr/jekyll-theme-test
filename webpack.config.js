@@ -11,7 +11,6 @@ Encore
   .setPublicPath('/assets')
   .addStyleEntry('css/app', './_assets/css/app.css')
   .addEntry('js/app', './_assets/js/app.js')
-  .addEntry('js/test.config', './_assets/js/test.config.js')
   .enablePostCssLoader()
   .disableSingleRuntimeChunk()
   .enableSourceMaps(!Encore.isProduction());
